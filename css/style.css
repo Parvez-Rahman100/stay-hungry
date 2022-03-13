@@ -244,6 +244,22 @@ img {
 #reported{
   display: none;
 }
+.questions{
+  text-align: center;
+}
+.difference{
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 10px;
+}
+.container{
+  margin: 0 auto;
+
+}
+.storages{
+  margin: 30px;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
