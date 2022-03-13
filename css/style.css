@@ -254,8 +254,13 @@ img {
   grid-template-columns: repeat(2,1fr);
   grid-gap: 10px;
 }
-.container{
+.question-container{
+  width: 80%;
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow:5px 5px aliceblue;
   margin: 0 auto;
+  background-color: aliceblue;
 
 }
 .storages{
